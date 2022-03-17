@@ -1,5 +1,4 @@
-# Copyright (c) AARI Corporation, All Right Served
-# Author Wei-Min Shen, 3-11-2020
+This is the minimum LED code for STM32
 
 ===== HARDWARE =====
 
@@ -10,10 +9,6 @@ MAC<-(usb)->[STLINK/V2]<-(swd)->[Bluepill/STM32F103C8]<-(pc13)->LED
 
 arm-none-eabi-{gcc,ldf,as}
 ST-Flash utility (https://github.com/texane/stlink)
-
-===== Objective =====
-
-This is the minimal code to turn LED on PC13 using registers
 
 ===== Operation Procedure =====
 
