@@ -1,8 +1,8 @@
 # Copyright (c) AARI Corporation, All Right Served
 # Author Wei-Min Shen, 3-11-2020
 
-TARGET	= led_on
-C_SOURCES   = led_on.c
+TARGET	= main
+C_SOURCES   = main.c
 ASM_SOURCES = bootstrap.s
 LINK_SCRIPTS = link.ld
 
