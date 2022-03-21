@@ -13,7 +13,7 @@ ST-Flash utility (https://github.com/texane/stlink)
 
 0. Type "make" to make $(TARGET).{elf,bin}
 1. Type "make flash" to load into STM32/Bluepill via [STLINK V2]
-2. Now, you shall see the LED is on.
+2. Now, you shall see the LED is blinking.
 
 ===== THE END =====
 
